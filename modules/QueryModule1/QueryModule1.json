@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67ab23fe3540945d40990a60_f4ad504f-091c-4a1e-a830-8786e7a31a3a",
+  "moduleUUID": "db58844e-4523-4552-adce-82a5282836b9",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "lvhugvppza",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
