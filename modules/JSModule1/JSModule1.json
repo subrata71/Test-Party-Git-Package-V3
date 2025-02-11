@@ -3,6 +3,28 @@
   "moduleUUID": "25705ab4-8e5b-45b0-bcb4-43d3bb633a36",
   "type": "JS_MODULE",
   "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "ikebxyeejg",
+            "label": "myFun2",
+            "propertyName": "inputs.myFun2"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "[]",
+            "id": "fkthnnbtlg",
+            "label": "myFun1",
+            "propertyName": "inputs.myFun1"
+          }
+        ],
+        "id": "llxrywylzy",
+        "sectionName": ""
+      }
+    ],
     "name": "JSModule1"
   }
 }
